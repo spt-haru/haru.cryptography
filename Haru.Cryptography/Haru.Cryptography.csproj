@@ -6,12 +6,12 @@
   </PropertyGroup>
 
   <PropertyGroup>
-    <PackageId>haru.pools</PackageId>
-    <Version>0.1.0</Version>
+    <PackageId>haru.cryptography</PackageId>
+    <Version>0.2.0</Version>
     <Authors>Merijn Hendriks</Authors>
     <Company>Project Haru</Company>
-    <PackageDescription>Object pooling for C#'s runtime types.</PackageDescription>
-    <RepositoryUrl>https://github.com/spt-haru/haru.pools</RepositoryUrl>
+    <PackageDescription>Implementation of EFT's encryptions.</PackageDescription>
+    <RepositoryUrl>https://github.com/spt-haru/haru.cryptography</RepositoryUrl>
   </PropertyGroup>
 
   <ItemGroup>
